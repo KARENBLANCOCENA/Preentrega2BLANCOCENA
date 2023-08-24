@@ -1,0 +1,95 @@
+
+*{
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   box-sizing: border-box;
+   
+   }
+
+
+header{
+    background-color: pink;
+    height: 80px;
+    font-size: 25px;
+    padding: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+
+
+
+.logo1{
+    float: center;
+    color: rgb(255, 0, 200);
+    font-weight: bold;
+    font-size: 50px;
+}
+.logo1 span{
+    color:rgb(110, 226, 43);
+}
+
+.logo2{
+    float: left;
+    color: rgb(233, 9, 184);
+    font-weight: bold;
+    font-size: 50px;
+    }
+
+
+.logo2 span{
+    color:rgb(110, 226, 43);
+}
+
+.logo3{
+    float: left;
+    color: rgb(233, 9, 184);
+    font-weight: bold;
+    font-size: 50px;
+}
+.logo3 span{
+    color:rgb(110, 226, 43);
+}
+.logo4{
+    float: left;
+    color: rgb(233, 9, 184);
+    font-weight: bold;
+    font-size: 50px;
+}
+.logo4 span{
+    color:rgb(110, 226, 43);
+}
+
+footer{
+    background-color: pink;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    padding: 100px 40px;
+}
+
+footer p{
+    margin-bottom: 10px;
+  
+}
+footer i{
+    color: black;
+    font-size: 30px ;
+    letter-spacing: 30px ;
+}
+
+
+main{
+    height: 50px;
+    background-color: pink;
+    background-size: cover;
+    }
+
+    .pan{
+        display:inline-table
+    }
+
+
+   
